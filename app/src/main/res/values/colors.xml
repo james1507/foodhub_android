@@ -12,4 +12,5 @@
     <color name="hintInputFormColor">#FFC4C4C4</color>
 
     <color name="buttonColor">#FF5B5B5E</color>
+    <color name="clickEfect">#FF808080</color>
 </resources>
